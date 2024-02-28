@@ -94,7 +94,7 @@ To do this click on **Data** on the left hand menu and then **Add Data Source**:
 <img src = images/data_source1.png width="800">
 </p>
 
-From here we can see a list of the data sources we have access to. Click on the **Phuse2024-Workshop** S3 connector. 
+From here we can see a list of the data sources we have access to. Click on the **ddl-rag-workshop** S3 connector. 
 
 To simplify things in this workshop the data sources have been added with service accounts, but in many organisations you would have to put in your individiual credentials to connect to the data source.
 
